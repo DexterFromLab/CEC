@@ -1,2 +1,2 @@
 # CEC
-CEC - Cloud Enviroment Crontroler
+CEC - Cloud Environment Controller
